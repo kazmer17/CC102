@@ -34,7 +34,7 @@ int main()
 
 	SugarinPHP = sugarPriceUSD * USDtoPHP * sugarQty;
 	RiceinPHP = ricePricePound * PoundtoPHP * riceQty;
-	SardinesinPHP = sardinesPricePound * sardinesQty;
+	SardinesinPHP = sardinesPricePoundtoPHP * sardinesQty;
 	CoffeeinPHP = coffeePriceUSD * USDtoPHP * coffeeQty;
 	MilkinPHP = milkPriceUSD * USDtoPHP * milkQty;
 	
