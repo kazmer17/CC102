@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	string nickname; 
+	
 	float sugarPriceUSD, ricePricePound, sardinesPricePound, coffeePriceUSD, milkPriceUSD;
 	float USDtoPHP, PoundtoPHP, TotalPHP;
 	float SugarinPHP, RiceinPHP, SardinesinPHP, CoffeeinPHP, MilkinPHP;
